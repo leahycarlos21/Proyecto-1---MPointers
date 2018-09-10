@@ -43,10 +43,10 @@ RM = /usr/clion-2018.1.5/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/leahycarlos21/Desktop/Proyecto #1 MPointers"
+CMAKE_SOURCE_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Proyecto__1_MPointers.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Proyecto__1_MPointers.dir/flags.make
 
 CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o: CMakeFiles/Proyecto__1_MPointers.dir/flags.make
 CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o -c "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/main.cpp"
 
 CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/main.cpp" > CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/main.cpp" > CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.i
 
 CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/main.cpp" -o CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/main.cpp" -o CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.s
 
 CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o.requires:
 
@@ -81,17 +81,43 @@ CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o.provides: CMakeFiles/Proyecto__1
 CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o.provides.build: CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o
 
 
+CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o: CMakeFiles/Proyecto__1_MPointers.dir/flags.make
+CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o: ../DynMemoryPackage/HasMemory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.cpp"
+
+CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.cpp" > CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.i
+
+CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.cpp" -o CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.s
+
+CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.requires:
+
+.PHONY : CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.requires
+
+CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.provides: CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.provides.build
+.PHONY : CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.provides
+
+CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.provides.build: CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o
+
+
 # Object files for target Proyecto__1_MPointers
 Proyecto__1_MPointers_OBJECTS = \
-"CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o"
+"CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o" \
+"CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o"
 
 # External object files for target Proyecto__1_MPointers
 Proyecto__1_MPointers_EXTERNAL_OBJECTS =
 
 Proyecto__1_MPointers: CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o
+Proyecto__1_MPointers: CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o
 Proyecto__1_MPointers: CMakeFiles/Proyecto__1_MPointers.dir/build.make
 Proyecto__1_MPointers: CMakeFiles/Proyecto__1_MPointers.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Proyecto__1_MPointers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Proyecto__1_MPointers"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Proyecto__1_MPointers.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +126,7 @@ CMakeFiles/Proyecto__1_MPointers.dir/build: Proyecto__1_MPointers
 .PHONY : CMakeFiles/Proyecto__1_MPointers.dir/build
 
 CMakeFiles/Proyecto__1_MPointers.dir/requires: CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o.requires
+CMakeFiles/Proyecto__1_MPointers.dir/requires: CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o.requires
 
 .PHONY : CMakeFiles/Proyecto__1_MPointers.dir/requires
 
@@ -108,6 +135,6 @@ CMakeFiles/Proyecto__1_MPointers.dir/clean:
 .PHONY : CMakeFiles/Proyecto__1_MPointers.dir/clean
 
 CMakeFiles/Proyecto__1_MPointers.dir/depend:
-	cd "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/leahycarlos21/Desktop/Proyecto #1 MPointers" "/home/leahycarlos21/Desktop/Proyecto #1 MPointers" "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug" "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug" "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/Proyecto__1_MPointers.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/Proyecto__1_MPointers.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Proyecto__1_MPointers.dir/depend
 

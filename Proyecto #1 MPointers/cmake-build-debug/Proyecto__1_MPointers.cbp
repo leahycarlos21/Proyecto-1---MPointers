@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug"/>
+				<Option working_dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug"/>
+				<Option working_dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug"/>
+				<Option working_dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Proyecto__1_MPointers">
-				<Option output="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/Proyecto__1_MPointers" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug"/>
+				<Option output="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/Proyecto__1_MPointers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto__1_MPointers"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto__1_MPointers"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Proyecto__1_MPointers/fast">
-				<Option output="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/Proyecto__1_MPointers" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug"/>
+				<Option output="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/Proyecto__1_MPointers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,17 +77,23 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto__1_MPointers/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Desktop/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto__1_MPointers/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/leahycarlos21/Documents/ITCR/II\ Semestre\ 2018/Algoritmos\ y\ Estructuras\ de\ Datos\ II/Proyectos\ CE/Proyecto\ I/Proyecto-1---MPointers/Proyecto\ #1\ MPointers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/main.cpp">
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.cpp">
 			<Option target="Proyecto__1_MPointers"/>
 		</Unit>
-		<Unit filename="/home/leahycarlos21/Desktop/Proyecto #1 MPointers/CMakeLists.txt">
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.h">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/main.cpp">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

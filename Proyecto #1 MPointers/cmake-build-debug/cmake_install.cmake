@@ -1,4 +1,4 @@
-# Install script for directory: /home/leahycarlos21/Desktop/Proyecto #1 MPointers
+# Install script for directory: /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -3,4 +3,4 @@ project(Proyecto__1_MPointers)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Proyecto__1_MPointers main.cpp)
+add_executable(Proyecto__1_MPointers main.cpp DynMemoryPackage/HasMemory.cpp DynMemoryPackage/HasMemory.h)

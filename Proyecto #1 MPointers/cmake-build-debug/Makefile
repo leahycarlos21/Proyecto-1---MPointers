@@ -48,10 +48,10 @@ RM = /usr/clion-2018.1.5/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/leahycarlos21/Desktop/Proyecto #1 MPointers"
+CMAKE_SOURCE_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,33 @@ Proyecto__1_MPointers/fast:
 	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/build
 .PHONY : Proyecto__1_MPointers/fast
 
+DynMemoryPackage/HasMemory.o: DynMemoryPackage/HasMemory.cpp.o
+
+.PHONY : DynMemoryPackage/HasMemory.o
+
+# target to build an object file
+DynMemoryPackage/HasMemory.cpp.o:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o
+.PHONY : DynMemoryPackage/HasMemory.cpp.o
+
+DynMemoryPackage/HasMemory.i: DynMemoryPackage/HasMemory.cpp.i
+
+.PHONY : DynMemoryPackage/HasMemory.i
+
+# target to preprocess a source file
+DynMemoryPackage/HasMemory.cpp.i:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.i
+.PHONY : DynMemoryPackage/HasMemory.cpp.i
+
+DynMemoryPackage/HasMemory.s: DynMemoryPackage/HasMemory.cpp.s
+
+.PHONY : DynMemoryPackage/HasMemory.s
+
+# target to generate assembly for a file
+DynMemoryPackage/HasMemory.cpp.s:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.s
+.PHONY : DynMemoryPackage/HasMemory.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Proyecto__1_MPointers"
+	@echo "... DynMemoryPackage/HasMemory.o"
+	@echo "... DynMemoryPackage/HasMemory.i"
+	@echo "... DynMemoryPackage/HasMemory.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

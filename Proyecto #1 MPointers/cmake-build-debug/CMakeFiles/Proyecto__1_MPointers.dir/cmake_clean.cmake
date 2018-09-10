@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o"
+  "CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o"
   "Proyecto__1_MPointers.pdb"
   "Proyecto__1_MPointers"
 )

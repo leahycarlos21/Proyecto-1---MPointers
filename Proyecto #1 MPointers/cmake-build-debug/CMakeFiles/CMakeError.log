@@ -1,26 +1,26 @@
 Detecting C [-std=c11] compiler features failed to compile with the following output:
-Change Dir: /home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dfeb8/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dfeb8.dir/build.make CMakeFiles/cmTC_dfeb8.dir/build
-make[1]: Entering directory '/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
-make[1]: *** No rule to make target '/home/leahycarlos21/Desktop/Proyecto\', needed by 'CMakeFiles/cmTC_dfeb8.dir/feature_tests.c.o'.  Stop.
-make[1]: Leaving directory '/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_dfeb8/fast' failed
-make: *** [cmTC_dfeb8/fast] Error 2
+Run Build Command:"/usr/bin/make" "cmTC_70098/fast"
+/usr/bin/make -f CMakeFiles/cmTC_70098.dir/build.make CMakeFiles/cmTC_70098.dir/build
+make[1]: Entering directory '/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: *** No rule to make target '/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto\', needed by 'CMakeFiles/cmTC_70098.dir/feature_tests.c.o'.  Stop.
+make[1]: Leaving directory '/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_70098/fast' failed
+make: *** [cmTC_70098/fast] Error 2
 
 
 
 Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
-Change Dir: /home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a9e59/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a9e59.dir/build.make CMakeFiles/cmTC_a9e59.dir/build
-make[1]: Entering directory '/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
-make[1]: *** No rule to make target '/home/leahycarlos21/Desktop/Proyecto\', needed by 'CMakeFiles/cmTC_a9e59.dir/feature_tests.cxx.o'.  Stop.
-make[1]: Leaving directory '/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_a9e59/fast' failed
-make: *** [cmTC_a9e59/fast] Error 2
+Run Build Command:"/usr/bin/make" "cmTC_ffe8c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ffe8c.dir/build.make CMakeFiles/cmTC_ffe8c.dir/build
+make[1]: Entering directory '/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: *** No rule to make target '/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto\', needed by 'CMakeFiles/cmTC_ffe8c.dir/feature_tests.cxx.o'.  Stop.
+make[1]: Leaving directory '/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ffe8c/fast' failed
+make: *** [cmTC_ffe8c/fast] Error 2
 
 
 
