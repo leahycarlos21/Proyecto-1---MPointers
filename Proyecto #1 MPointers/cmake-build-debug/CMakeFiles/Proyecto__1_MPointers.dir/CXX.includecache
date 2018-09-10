@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/DynMemoryPackage/mainDynMemory.cpp
+iostream
+-
+
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/MPointerPackage/mainMPointer.cpp
+iostream
+-
+
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/ServerPackage/mainServer.cpp
+iostream
+-
+
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/main.cpp
+iostream
+-
+MPointerPackage/mainMPointer.cpp
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/MPointerPackage/mainMPointer.cpp
+DynMemoryPackage/mainDynMemory.cpp
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/DynMemoryPackage/mainDynMemory.cpp
+ServerPackage/mainServer.cpp
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/ServerPackage/mainServer.cpp
+

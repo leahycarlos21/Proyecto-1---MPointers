@@ -1,0 +1,3 @@
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leahycarlos21/Desktop/Proyecto #1 MPointers/cmake-build-debug/CMakeFiles/Proyecto__1_MPointers.dir
