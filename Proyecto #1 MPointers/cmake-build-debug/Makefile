@@ -123,32 +123,86 @@ Proyecto__1_MPointers/fast:
 	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/build
 .PHONY : Proyecto__1_MPointers/fast
 
-DynMemoryPackage/HasMemory.o: DynMemoryPackage/HasMemory.cpp.o
+DynMemoryPackage/ListaEnlazada/listaEnlazada.o: DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.o
 
-.PHONY : DynMemoryPackage/HasMemory.o
+.PHONY : DynMemoryPackage/ListaEnlazada/listaEnlazada.o
 
 # target to build an object file
-DynMemoryPackage/HasMemory.cpp.o:
-	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o
-.PHONY : DynMemoryPackage/HasMemory.cpp.o
+DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.o:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.o
+.PHONY : DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.o
 
-DynMemoryPackage/HasMemory.i: DynMemoryPackage/HasMemory.cpp.i
+DynMemoryPackage/ListaEnlazada/listaEnlazada.i: DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.i
 
-.PHONY : DynMemoryPackage/HasMemory.i
+.PHONY : DynMemoryPackage/ListaEnlazada/listaEnlazada.i
 
 # target to preprocess a source file
-DynMemoryPackage/HasMemory.cpp.i:
-	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.i
-.PHONY : DynMemoryPackage/HasMemory.cpp.i
+DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.i:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.i
+.PHONY : DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.i
 
-DynMemoryPackage/HasMemory.s: DynMemoryPackage/HasMemory.cpp.s
+DynMemoryPackage/ListaEnlazada/listaEnlazada.s: DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.s
 
-.PHONY : DynMemoryPackage/HasMemory.s
+.PHONY : DynMemoryPackage/ListaEnlazada/listaEnlazada.s
 
 # target to generate assembly for a file
-DynMemoryPackage/HasMemory.cpp.s:
-	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.s
-.PHONY : DynMemoryPackage/HasMemory.cpp.s
+DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.s:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.s
+.PHONY : DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.s
+
+DynMemoryPackage/MemoryAlloc/memoryMap.o: DynMemoryPackage/MemoryAlloc/memoryMap.cpp.o
+
+.PHONY : DynMemoryPackage/MemoryAlloc/memoryMap.o
+
+# target to build an object file
+DynMemoryPackage/MemoryAlloc/memoryMap.cpp.o:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryAlloc/memoryMap.cpp.o
+.PHONY : DynMemoryPackage/MemoryAlloc/memoryMap.cpp.o
+
+DynMemoryPackage/MemoryAlloc/memoryMap.i: DynMemoryPackage/MemoryAlloc/memoryMap.cpp.i
+
+.PHONY : DynMemoryPackage/MemoryAlloc/memoryMap.i
+
+# target to preprocess a source file
+DynMemoryPackage/MemoryAlloc/memoryMap.cpp.i:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryAlloc/memoryMap.cpp.i
+.PHONY : DynMemoryPackage/MemoryAlloc/memoryMap.cpp.i
+
+DynMemoryPackage/MemoryAlloc/memoryMap.s: DynMemoryPackage/MemoryAlloc/memoryMap.cpp.s
+
+.PHONY : DynMemoryPackage/MemoryAlloc/memoryMap.s
+
+# target to generate assembly for a file
+DynMemoryPackage/MemoryAlloc/memoryMap.cpp.s:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryAlloc/memoryMap.cpp.s
+.PHONY : DynMemoryPackage/MemoryAlloc/memoryMap.cpp.s
+
+DynMemoryPackage/MemoryServer/MemoryManage.o: DynMemoryPackage/MemoryServer/MemoryManage.cpp.o
+
+.PHONY : DynMemoryPackage/MemoryServer/MemoryManage.o
+
+# target to build an object file
+DynMemoryPackage/MemoryServer/MemoryManage.cpp.o:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryServer/MemoryManage.cpp.o
+.PHONY : DynMemoryPackage/MemoryServer/MemoryManage.cpp.o
+
+DynMemoryPackage/MemoryServer/MemoryManage.i: DynMemoryPackage/MemoryServer/MemoryManage.cpp.i
+
+.PHONY : DynMemoryPackage/MemoryServer/MemoryManage.i
+
+# target to preprocess a source file
+DynMemoryPackage/MemoryServer/MemoryManage.cpp.i:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryServer/MemoryManage.cpp.i
+.PHONY : DynMemoryPackage/MemoryServer/MemoryManage.cpp.i
+
+DynMemoryPackage/MemoryServer/MemoryManage.s: DynMemoryPackage/MemoryServer/MemoryManage.cpp.s
+
+.PHONY : DynMemoryPackage/MemoryServer/MemoryManage.s
+
+# target to generate assembly for a file
+DynMemoryPackage/MemoryServer/MemoryManage.cpp.s:
+	$(MAKE) -f CMakeFiles/Proyecto__1_MPointers.dir/build.make CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryServer/MemoryManage.cpp.s
+.PHONY : DynMemoryPackage/MemoryServer/MemoryManage.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +240,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Proyecto__1_MPointers"
-	@echo "... DynMemoryPackage/HasMemory.o"
-	@echo "... DynMemoryPackage/HasMemory.i"
-	@echo "... DynMemoryPackage/HasMemory.s"
+	@echo "... DynMemoryPackage/ListaEnlazada/listaEnlazada.o"
+	@echo "... DynMemoryPackage/ListaEnlazada/listaEnlazada.i"
+	@echo "... DynMemoryPackage/ListaEnlazada/listaEnlazada.s"
+	@echo "... DynMemoryPackage/MemoryAlloc/memoryMap.o"
+	@echo "... DynMemoryPackage/MemoryAlloc/memoryMap.i"
+	@echo "... DynMemoryPackage/MemoryAlloc/memoryMap.s"
+	@echo "... DynMemoryPackage/MemoryServer/MemoryManage.o"
+	@echo "... DynMemoryPackage/MemoryServer/MemoryManage.i"
+	@echo "... DynMemoryPackage/MemoryServer/MemoryManage.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

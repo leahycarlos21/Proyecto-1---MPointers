@@ -84,10 +84,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.cpp">
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp">
 			<Option target="Proyecto__1_MPointers"/>
 		</Unit>
-		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.h">
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.h">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/nodo.h">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/memoryMap.cpp">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/memoryMap.h">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/nodoMemory.h">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryServer/MemoryManage.cpp">
+			<Option target="Proyecto__1_MPointers"/>
+		</Unit>
+		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryServer/MemoryManage.h">
 			<Option target="Proyecto__1_MPointers"/>
 		</Unit>
 		<Unit filename="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/main.cpp">

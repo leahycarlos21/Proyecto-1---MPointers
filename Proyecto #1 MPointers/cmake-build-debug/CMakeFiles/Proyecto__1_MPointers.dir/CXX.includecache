@@ -6,9 +6,71 @@
 
 #IncludeRegexTransform: 
 
-/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/mainDynMemory.cpp
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp
+listaEnlazada.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.h
+fstream
+-
 iostream
 -
+string
+-
+stdlib.h
+-
+nodo.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/nodo.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/nodo.h
+iostream
+-
+stdlib.h
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/memoryMap.cpp
+memoryMap.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/memoryMap.h
+nodoMemory.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/nodoMemory.h
+stdlib.h
+-
+iostream
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/memoryMap.h
+nodoMemory.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/nodoMemory.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/nodoMemory.h
+stdlib.h
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryServer/MemoryManage.cpp
+MemoryManage.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryServer/MemoryManage.h
+../MemoryAlloc/memoryMap.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/memoryMap.h
+string
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryServer/MemoryManage.h
+../ListaEnlazada/listaEnlazada.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/mainDynMemory.cpp
+cstring
+-
+iostream
+-
+MemoryAlloc/memoryMap.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryAlloc/memoryMap.h
+stdlib.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/stdlib.h
+ListaEnlazada/listaEnlazada.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.h
+MemoryServer/MemoryManage.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryServer/MemoryManage.h
 
 /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/MPointerPackage/mainMPointer.cpp
 iostream
