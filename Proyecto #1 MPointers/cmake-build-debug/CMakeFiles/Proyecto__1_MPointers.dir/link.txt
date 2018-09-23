@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o  -o Proyecto__1_MPointers 
+/usr/bin/c++  -g   CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryAlloc/memoryMap.cpp.o CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.o CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryServer/MemoryManage.cpp.o  -o Proyecto__1_MPointers 

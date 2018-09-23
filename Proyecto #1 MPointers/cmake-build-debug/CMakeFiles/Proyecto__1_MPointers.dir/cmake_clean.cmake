@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Proyecto__1_MPointers.dir/main.cpp.o"
-  "CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/HasMemory.cpp.o"
+  "CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryAlloc/memoryMap.cpp.o"
+  "CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp.o"
+  "CMakeFiles/Proyecto__1_MPointers.dir/DynMemoryPackage/MemoryServer/MemoryManage.cpp.o"
   "Proyecto__1_MPointers.pdb"
   "Proyecto__1_MPointers"
 )
