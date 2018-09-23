@@ -15,8 +15,6 @@ void my_free(void *block);
 
 int cantidadDisponible();
 int getBloqueSize();
-template <typename T>
-T cambiarVoidToType(void *ptr); //retorna el dato para el server
 
 
 
