@@ -27,6 +27,8 @@ public:
 
     int getDato(int idCliente);
 
+    void eliminarDato(int idCliente);
+
     MemoryManage();
 
     virtual ~MemoryManage();

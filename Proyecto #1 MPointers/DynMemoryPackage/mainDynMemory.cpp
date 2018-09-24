@@ -33,6 +33,8 @@ int mainDynMemory() {
     int dato = memoryManage->getDato(1);
     cantidadDisponible();
 
+    memoryManage->eliminarDato(1);
+    printLista(memoryManage->listaBlockMem);
 
     delete memoryManage;
 
