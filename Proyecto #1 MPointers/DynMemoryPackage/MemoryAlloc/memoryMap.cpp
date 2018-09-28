@@ -17,7 +17,6 @@ void createPool(int byteSize) {
         free(inicio->memDireccion);
         free(inicio);
         inicio = NULL;
-        cout << "primera parte" << endl;
     }
     if (memDireccion != NULL) {
         inicio = (NodoMemory *) malloc(sizeof(memDireccion));
@@ -25,7 +24,6 @@ void createPool(int byteSize) {
         inicio->allocated = 0;
         inicio->bloqueSize = byteSize;
         inicio->memDireccion = memDireccion;
-        cout << "segunda parte" << endl;
 
     }
 }
@@ -54,16 +52,16 @@ void *my_malloc(int bytes_requested) {
             auxNodo->allocated = 0;
             auxNodo->bloqueSize = actualNodo->bloqueSize - bytes_requested;
             auxNodo->memDireccion = (void *) (bytes_requested + (char *) actualNodo->memDireccion);
-            actualNodo->siguiente = auxNodo;//remaining memblock is now after current
+            actualNodo->siguiente = auxNodo;
         }
         actualNodo->allocated = 1;
         actualNodo->bloqueSize = bytes_requested;
-        cout << "la direccion de memoria del malloc es" << actualNodo->memDireccion << endl;
+        cout << "la direccion de memoria  del bloque del server es " << actualNodo->memDireccion << endl;
         return actualNodo->memDireccion;
     } else {
         cout << "NULL" << endl;
 
-        return NULL;//Requested memory block unavailable
+        return NULL;
     }
 }
 

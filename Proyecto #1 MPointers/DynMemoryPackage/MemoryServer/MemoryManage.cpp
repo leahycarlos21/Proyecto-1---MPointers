@@ -20,14 +20,11 @@ int MemoryManage::solicitarEspacio(int size) {
 
 //template <typename T>
 bool MemoryManage::almacenarDato(int idCliente, string typeDato, int dato) {
-    cout << "getBloqueSize()-------" << getBloqueSize() << endl;
-    cout << "sizeof(dato)-----" << sizeof(dato) << endl;
     if (sizeof(dato) > cantidadDisponible()) {
         cout << "NO HAY CAMPO" << endl;
         return false;
 
     } else if (typeDato == "int") {
-        cout << "typeDato------------------" << typeDato << endl;
         my_free(buscarElemento(listaBlockMem, idCliente));///lo libera por si el tamaño es diferente
         int *ptrAux = (int *) my_malloc(sizeof(int));
         *ptrAux = dato;
