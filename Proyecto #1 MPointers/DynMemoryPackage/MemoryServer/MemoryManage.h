@@ -21,11 +21,11 @@ public:
 
     int solicitarEspacio(int size);
 
-    //AQUI SE PONDRIA UN TEMPLATE
-   // template <typename T>
     bool almacenarDato(int idCliente, string typeDato, int dato);
 
     int getDato(int idCliente);
+
+    void eliminarDato(int idCliente);
 
     MemoryManage();
 

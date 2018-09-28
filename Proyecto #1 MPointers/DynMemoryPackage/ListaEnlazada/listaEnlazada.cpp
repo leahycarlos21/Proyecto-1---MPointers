@@ -35,7 +35,6 @@ void* buscarElemento(listaEnlazada lista, int id){
 }
 void printLista(listaEnlazada lista){
     int i=0;
-    cout<<"ENTROOOO"<<endl;
     while(lista!=NULL){
         cout<<i+1<<") "<<lista->idCliente<<endl;
         cout<<"Dir de memoria"<<lista->memDir<<endl;
@@ -83,6 +82,3 @@ void actualizar(listaEnlazada &lista,int id, void* memDir1,string typeDato){
     else
         cout<<"Lista vacia"<<endl;
 }
-//https://gist.github.com/martincruzot/16f1c181b38743e06449
-//https://docs.google.com/viewer?a=v&pid=forums&srcid=MDA1NDc3MTcyNDM1NDcxNDQ3NTkBMDg5NTQwMzk4MDM0NzgzNjU1ODMBQXlmbk04a0JFQUFKATAuMQEBdjI&authuser=0
-//https://github.com/bdubchambers/MemoryHeap_LinkedList/blob/master/mallok.h#L8
