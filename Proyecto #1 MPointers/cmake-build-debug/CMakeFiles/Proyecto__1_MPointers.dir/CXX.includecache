@@ -6,7 +6,6 @@
 
 #IncludeRegexTransform: 
 
-<<<<<<< Updated upstream
 /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.cpp
 listaEnlazada.h
 /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.h
@@ -58,13 +57,6 @@ string
 /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/MemoryServer/MemoryManage.h
 ../ListaEnlazada/listaEnlazada.h
 /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/ListaEnlazada/listaEnlazada.h
-=======
-/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.cpp
-HasMemory.h
-/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.h
-
-/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/HasMemory.h
->>>>>>> Stashed changes
 
 /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto I/Proyecto-1---MPointers/Proyecto #1 MPointers/DynMemoryPackage/mainDynMemory.cpp
 cstring
